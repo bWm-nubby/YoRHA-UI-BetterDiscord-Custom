@@ -32,12 +32,12 @@
 
 /* GLOBAL VARIABLES */
 :root {
-	--color-high: rgb(87, 84, 74);
-	--color-low: rgb(218, 212, 187);
-	--color-mid: rgb(151, 147, 129);
-	--color-alert: rgb(205, 102, 77);
+	--color-high: rgb(26, 25, 21);
+	--color-low: rgb(194, 188, 164);
+	--color-mid: rgb(87, 84, 74);
+	--color-alert: rgb(77, 192, 208);
 	--color-high-trans: rgba(87, 84, 74, 0.6);
-	--color-low-trans: rgba(218, 212, 187, 0.8);
-	--color-alert-trans: rgba(205, 102, 77, 0.7);
+	--color-low-trans: rgba(194, 188, 164, 0.8);
+	--color-alert-trans: rgba(77, 192, 208, 0.3);
 	--nier-font: sce-ps3_rodin_latinregular;
 }
